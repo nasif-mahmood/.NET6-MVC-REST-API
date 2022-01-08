@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nasifmahmood/VSCode/c#/MVCRESTAPI/Commander/Commander.csproj": {}
+    "D:\\Visual Studio Projects\\MVCRESTAPI\\.NET6-MVC-REST-API\\Commander.csproj": {}
   },
   "projects": {
-    "/Users/nasifmahmood/VSCode/c#/MVCRESTAPI/Commander/Commander.csproj": {
+    "D:\\Visual Studio Projects\\MVCRESTAPI\\.NET6-MVC-REST-API\\Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nasifmahmood/VSCode/c#/MVCRESTAPI/Commander/Commander.csproj",
+        "projectUniqueName": "D:\\Visual Studio Projects\\MVCRESTAPI\\.NET6-MVC-REST-API\\Commander.csproj",
         "projectName": "Commander",
-        "projectPath": "/Users/nasifmahmood/VSCode/c#/MVCRESTAPI/Commander/Commander.csproj",
-        "packagesPath": "/Users/nasifmahmood/.nuget/packages/",
-        "outputPath": "/Users/nasifmahmood/VSCode/c#/MVCRESTAPI/Commander/obj/",
+        "projectPath": "D:\\Visual Studio Projects\\MVCRESTAPI\\.NET6-MVC-REST-API\\Commander.csproj",
+        "packagesPath": "C:\\Users\\kyler\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual Studio Projects\\MVCRESTAPI\\.NET6-MVC-REST-API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nasifmahmood/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\kyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +40,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -61,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
