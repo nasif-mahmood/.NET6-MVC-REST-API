@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bCD66JOKlaC0Boxbp9mua29AVmASnzpt0i0CDVJkoM2ofqBfueq8QMGOGE8SiJIearkmpDsTPumHnejFwIzV+w==",
+  "dgSpecHash": "ndzVfP40gHUWCpoIMxy/WaVOeP6YjEfqfzfszlP7GnAqe/ADwjzQnvnNKDBWXm6SqxetXeAb6JmA4h+NDyJFGQ==",
   "success": true,
   "projectFilePath": "D:\\Visual Studio Projects\\MVCRESTAPI\\.NET6-MVC-REST-API\\Commander.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kyler\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\kyler\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\kyler\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\kyler\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\kyler\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\kyler\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\kyler\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\kyler\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
