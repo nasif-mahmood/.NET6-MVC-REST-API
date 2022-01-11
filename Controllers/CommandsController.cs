@@ -4,6 +4,7 @@ using Commander.Models;
 using Microsoft.AspNetCore.Mvc;
 using AutoMapper;
 using Microsoft.AspNetCore.JsonPatch;
+using Swashbuckle.AspNetCore.Annotations;
 
 namespace Commander.Controllers
 {
@@ -23,6 +24,7 @@ namespace Commander.Controllers
 
         //GET api/commands
         // Returns list of commands
+        [SwaggerOperation(Summary = "Get all commands")]
         [HttpGet]
         public ActionResult <IEnumerable<CommandReadDto>> GetAllCommands()
         {
@@ -33,6 +35,7 @@ namespace Commander.Controllers
 
         //GET api/commands/{id}
         // Returns specific command
+        [SwaggerOperation(Summary = "Get a specific command using its id")]
         [HttpGet("{id}", Name="GetCommandById")]
         public ActionResult <CommandReadDto> GetCommandById(int id)
         {
@@ -46,6 +49,7 @@ namespace Commander.Controllers
 
         //POST api/commands
         // Adds new command
+        [SwaggerOperation(Summary = "Add a new command")]
         [HttpPost]
         public ActionResult <CommandReadDto> CreateCommand(CommandCreateDto commandCreateDto)
         {
@@ -60,6 +64,7 @@ namespace Commander.Controllers
 
         //PUT api/commands/{id}
         // Updates specific command
+        [SwaggerOperation(Summary = "Replace a command's values")]
         [HttpPut("{id}")]
         public ActionResult UpdateCommand(int id, CommandUpdateDto commandUpdateDto)
         {
@@ -79,6 +84,7 @@ namespace Commander.Controllers
 
         //PATCH api/commands/{id}
         // Partial updates specific command using operation, path, value
+        [SwaggerOperation(Summary = "Perform a partial update on a command")]
         [HttpPatch("{id}")]
         public ActionResult PartialCommandUpdate(int id, JsonPatchDocument<CommandUpdateDto> patchDoc)
         {
@@ -106,6 +112,7 @@ namespace Commander.Controllers
         }
 
         //DELETE api/commands/{id}
+        [SwaggerOperation(Summary = "Delete a specific command using its id")]
         [HttpDelete("{id}")]
         public ActionResult DeleteCommand(int id)
         {

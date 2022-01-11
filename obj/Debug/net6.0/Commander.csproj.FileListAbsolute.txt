@@ -91,3 +91,4 @@ D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Microso
 D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
