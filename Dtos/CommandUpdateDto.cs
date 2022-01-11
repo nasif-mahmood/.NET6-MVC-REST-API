@@ -1,8 +1,8 @@
-using System.ComponentModel.DataAnnotations; 
+using System.ComponentModel.DataAnnotations;
 
 namespace Commander.Dtos
 {
-    public class CommandCreateDto
+    public class CommandUpdateDto //This class is identical to CreateDto but is kept seperate for any future changes
     {
         [Required]
         [MaxLength(250)]
