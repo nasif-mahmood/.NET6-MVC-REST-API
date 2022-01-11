@@ -21,6 +21,9 @@
 ## API Endpoints
 ![image](https://github.com/nasif-mahmood/.NET6-MVC-REST-API/blob/master/images/apiendpoints.png)
 
+## Website UI
+![image](https://github.com/nasif-mahmood/.NET6-MVC-REST-API/blob/master/images/ui.png)
+
 ## Examples using Postman
 ### GET
 ![image](https://github.com/nasif-mahmood/.NET6-MVC-REST-API/blob/master/images/get.png)
