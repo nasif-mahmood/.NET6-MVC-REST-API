@@ -1,6 +1,4 @@
 # CLI Commands REST API (.NET 6 MVC)
-Website: http://commanderapi.southcentralus.azurecontainer.io/index.html  
-
 **This API stores and returns command line snippets, a short description of what they do and what platform they are for**
 ### The purpose of this project is to learn and practice concepts related to:
 > - .NET 6
