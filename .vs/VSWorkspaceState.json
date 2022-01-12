@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Release",
     "\\Controllers",
     "\\Data",
     "\\Dtos",
     "\\Models",
+    "\\obj",
     "\\Profiles"
   ],
-  "SelectedNode": "\\Controllers\\CommandsController.cs",
+  "SelectedNode": "\\.dockerignore",
   "PreviewInSolutionExplorer": false
 }
