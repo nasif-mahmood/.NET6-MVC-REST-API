@@ -25,70 +25,137 @@
 /Users/nasifmahmood/VSCode/c#/MVCRESTAPI/Commander/obj/Debug/net6.0/ref/Commander.dll
 /Users/nasifmahmood/VSCode/c#/MVCRESTAPI/Commander/obj/Debug/net6.0/Commander.pdb
 /Users/nasifmahmood/VSCode/c#/MVCRESTAPI/Commander/obj/Debug/net6.0/Commander.genruntimeconfig.cache
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\obj\Debug\net6.0\Commander.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\obj\Debug\net6.0\ref\Commander.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\obj\Debug\net6.0\Commander.pdb
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\appsettings.Development.json
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\appsettings.json
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Commander.exe
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Commander.deps.json
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Commander.runtimeconfig.json
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Commander.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\ref\Commander.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Commander.pdb
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Microsoft.OpenApi.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\obj\Debug\net6.0\Commander.csproj.AssemblyReference.cache
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\obj\Debug\net6.0\Commander.GeneratedMSBuildEditorConfig.editorconfig
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\obj\Debug\net6.0\Commander.AssemblyInfoInputs.cache
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\obj\Debug\net6.0\Commander.AssemblyInfo.cs
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\obj\Debug\net6.0\Commander.csproj.CoreCompileInputs.cache
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\obj\Debug\net6.0\Commander.MvcApplicationPartsAssemblyInfo.cs
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\obj\Debug\net6.0\Commander.MvcApplicationPartsAssemblyInfo.cache
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\obj\Debug\net6.0\staticwebassets.build.json
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\obj\Debug\net6.0\staticwebassets.development.json
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\obj\Debug\net6.0\scopedcss\bundle\Commander.styles.css
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\obj\Debug\net6.0\Commander.csproj.CopyComplete
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\obj\Debug\net6.0\Commander.genruntimeconfig.cache
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Humanizer.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\System.Drawing.Common.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\System.Runtime.Caching.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\System.Security.Permissions.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\System.Windows.Extensions.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\AutoMapper.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Newtonsoft.Json.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
-D:\Visual Studio Projects\MVCRESTAPI\.NET6-MVC-REST-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/obj/Debug/net6.0/ref/Commander.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.pdb
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/appsettings.Development.json
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/appsettings.json
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Commander.exe
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Commander.deps.json
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Commander.runtimeconfig.json
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Commander.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/ref/Commander.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Commander.pdb
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.csproj.AssemblyReference.cache
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.GeneratedMSBuildEditorConfig.editorconfig
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.AssemblyInfoInputs.cache
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.AssemblyInfo.cs
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.csproj.CoreCompileInputs.cache
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.MvcApplicationPartsAssemblyInfo.cs
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.MvcApplicationPartsAssemblyInfo.cache
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/obj/Debug/net6.0/staticwebassets.build.json
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/obj/Debug/net6.0/staticwebassets.development.json
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/obj/Debug/net6.0/scopedcss/bundle/Commander.styles.css
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.csproj.CopyComplete
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.genruntimeconfig.cache
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Humanizer.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/AutoMapper.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Newtonsoft.Json.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+D:/Visual Studio Projects/MVCRESTAPI/.NET6-MVC-REST-API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Annotations.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/appsettings.Development.json
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/appsettings.json
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Commander
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Commander.deps.json
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Commander.runtimeconfig.json
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Commander.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/ref/Commander.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Commander.pdb
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/AutoMapper.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Humanizer.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Annotations.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.csproj.AssemblyReference.cache
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.GeneratedMSBuildEditorConfig.editorconfig
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.AssemblyInfoInputs.cache
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.AssemblyInfo.cs
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.csproj.CoreCompileInputs.cache
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.MvcApplicationPartsAssemblyInfo.cs
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.MvcApplicationPartsAssemblyInfo.cache
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/obj/Debug/net6.0/staticwebassets.build.json
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/obj/Debug/net6.0/staticwebassets.development.json
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/obj/Debug/net6.0/scopedcss/bundle/Commander.styles.css
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.csproj.CopyComplete
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/obj/Debug/net6.0/ref/Commander.dll
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.pdb
+/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/obj/Debug/net6.0/Commander.genruntimeconfig.cache

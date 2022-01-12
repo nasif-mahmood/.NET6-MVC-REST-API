@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio Projects\\MVCRESTAPI\\.NET6-MVC-REST-API\\Commander.csproj": {}
+    "/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/Commander.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio Projects\\MVCRESTAPI\\.NET6-MVC-REST-API\\Commander.csproj": {
+    "/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio Projects\\MVCRESTAPI\\.NET6-MVC-REST-API\\Commander.csproj",
+        "projectUniqueName": "/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/Commander.csproj",
         "projectName": "Commander",
-        "projectPath": "D:\\Visual Studio Projects\\MVCRESTAPI\\.NET6-MVC-REST-API\\Commander.csproj",
-        "packagesPath": "C:\\Users\\kyler\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio Projects\\MVCRESTAPI\\.NET6-MVC-REST-API\\obj\\",
+        "projectPath": "/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/Commander.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/virtualmachine/Desktop/VSCode/restapi/.NET6-MVC-REST-API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -93,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }
