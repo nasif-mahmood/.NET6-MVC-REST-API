@@ -14,6 +14,7 @@
 > - RESTful API guidelines
 > - HTTP (GET, POST, PUT, PATCH, DELETE, status codes)
 > - Testing API Endpoints (SwaggerUI & Postman)
+> - Docker(Containerization, Images, Compose, Docker Hub)
 
 ## Application Architecture
 ![image](https://github.com/nasif-mahmood/.NET6-MVC-REST-API/blob/master/images/architecture.png)
